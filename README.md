@@ -47,10 +47,12 @@ To set up and run this project, you’ll need the following:
 ![jenkins freestyle-build](./Pictures/Screenshot%202025-04-19%20232020.png)
 
 ---
+---
 ## Checking Maven locally 
 After completing the files and setting configurations on jenkins level and EC2 instance level. Checking the java-maven freestyle build by cloning the repo to your instance and go to `repo` Then,
----
+
 Run : `mvn clean package`
+---
 ![Output](./Pictures/Screenshot%202025-04-19%20232124.png)
 ## Output
 
